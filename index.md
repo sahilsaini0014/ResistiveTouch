@@ -15,4 +15,6 @@
 ### So i ordered my Controller with my friend. Highlighted products are mine on the invoice above 
 
 **Jumper Wires and SD card**
+![wires](https://user-images.githubusercontent.com/43186158/46379834-1c66c700-c66e-11e8-893d-94a2c6aa2b4c.PNG)
+
 
