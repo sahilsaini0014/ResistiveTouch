@@ -11,3 +11,4 @@
 
 **Controller and Resistive Touch Screen**
 
+![sensor](https://user-images.githubusercontent.com/43186158/46379249-32738800-c66c-11e8-862a-4b7ee04807ab.PNG)
