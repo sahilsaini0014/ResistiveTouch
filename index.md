@@ -5,4 +5,6 @@
 ### Proof of Purchases
 
 **CanaKit Raspberry Pi 3 b+**
+![raspberry](https://user-images.githubusercontent.com/43186158/46378852-ee33b800-c66a-11e8-8b2a-75a6e47cf173.PNG)
+So Me and my friends ordered 6 Raspberry Pi Together
 
