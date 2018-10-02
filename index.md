@@ -12,3 +12,6 @@
 **Controller and Resistive Touch Screen**
 
 ![sensor](https://user-images.githubusercontent.com/43186158/46379249-32738800-c66c-11e8-862a-4b7ee04807ab.PNG)
+
+**Jumper Wires and SD card**
+![wires](https://user-images.githubusercontent.com/43186158/46379251-33a4b500-c66c-11e8-83d1-bd9720368c47.PNG)
