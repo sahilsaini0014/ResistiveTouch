@@ -16,9 +16,11 @@
 ![wires](https://user-images.githubusercontent.com/43186158/46379834-1c66c700-c66e-11e8-893d-94a2c6aa2b4c.PNG)
 
 ## October 2, 2018 - Week 4
+## Budget
 
 ## October 2, 2018 - Week 3
-
+## Schedule
 ## October 2, 2018 - Week 2
-
+## Proposal
 ## October 2, 2018 - Week 1
+## Blinking the LED
