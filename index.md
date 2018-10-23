@@ -17,6 +17,9 @@
 
 ## September 25, 2018 - Week 4
 ## Budget
+#### So below are my all expenses for everything I need in my project
+![budg](https://user-images.githubusercontent.com/43186158/47396571-5ec57600-d6f9-11e8-88ff-884b811b659c.PNG)
+
 
 ## September 18, 2018 - Week 3
 ## Schedule
