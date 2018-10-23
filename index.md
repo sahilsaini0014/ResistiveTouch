@@ -1,4 +1,14 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
+
+## October 23, 2018 - Week 8
+## Raspberry Pi connection With the Controller
+## Soldered Controller 
+
+
+## October 16, 2018 - Week 7
+## Pseudo Assignment
+## Starded Soldering the Controller
+
 ## October 2, 2018 - Week 5
 ## Proof of Purchases
 
