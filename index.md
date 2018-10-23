@@ -28,8 +28,11 @@
 
 ## September 11, 2018 - Week 2
 ## Proposal
-![proposal](https://user-images.githubusercontent.com/43186158/47396387-7819f280-d6f8-11e8-97ac-5888ca0b90c9.PNG)
 #### So with the proposal I proposed my idea and my project. 
+![proposal](https://user-images.githubusercontent.com/43186158/47396387-7819f280-d6f8-11e8-97ac-5888ca0b90c9.PNG)
 
 ## September 04, 2018 - Week 1
 ## Blinking the LED
+In the very first week i have tried to blink the LED with Raspberry pi.
+I have also decided my Controller.
+
