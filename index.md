@@ -7,7 +7,11 @@
 
 ## October 16, 2018 - Week 7
 ## Pseudo Assignment
+
 ## Starded Soldering the Controller
+
+![img-0120](https://user-images.githubusercontent.com/43186158/47397369-efea1c00-d6fc-11e8-82ef-dd5009e6c5e1.JPG)
+
 
 ## October 2, 2018 - Week 5
 ## Proof of Purchases
