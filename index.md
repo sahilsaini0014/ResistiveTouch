@@ -8,6 +8,8 @@
 ## October 16, 2018 - Week 7
 ## Pseudo Assignment
 
+![uml](https://user-images.githubusercontent.com/43186158/47397533-b49c1d00-d6fd-11e8-860a-e3356aa21fe8.PNG)
+
 ## Starded Soldering the Controller
 
 ![img-0120](https://user-images.githubusercontent.com/43186158/47397369-efea1c00-d6fc-11e8-82ef-dd5009e6c5e1.JPG)
