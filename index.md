@@ -20,9 +20,11 @@
 #### So below are my all expenses for everything I need in my project
 ![budg](https://user-images.githubusercontent.com/43186158/47396571-5ec57600-d6f9-11e8-88ff-884b811b659c.PNG)
 
-
+#### Son this gantt chart explains all the planning for my project.
 ## September 18, 2018 - Week 3
 ## Schedule
+
+![schedule](https://user-images.githubusercontent.com/43186158/47396869-9a147480-d6fa-11e8-9632-ec4b828bfb44.PNG)
 
 ## September 11, 2018 - Week 2
 ## Proposal
