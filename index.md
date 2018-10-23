@@ -23,6 +23,8 @@
 
 ## September 11, 2018 - Week 2
 ## Proposal
+![proposal](https://user-images.githubusercontent.com/43186158/47396387-7819f280-d6f8-11e8-97ac-5888ca0b90c9.PNG)
+#### So with the proposal I proposed my idea and my project. 
 
 ## September 04, 2018 - Week 1
 ## Blinking the LED
