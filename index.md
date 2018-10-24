@@ -6,6 +6,7 @@
 ![connection](https://user-images.githubusercontent.com/43186158/47399420-5aec2080-d706-11e8-8e8e-8f9135a20a1d.PNG)
 
 ## Schematic Diagram
+![schematic](https://user-images.githubusercontent.com/43186158/47399421-5c1d4d80-d706-11e8-917d-67a496422fb2.PNG)
 
 ## Connection Created
 As you can see my Controller I2C Address on RPI terminal. 
