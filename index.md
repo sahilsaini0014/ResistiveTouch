@@ -3,6 +3,7 @@
 ## October 23, 2018 - Week 8
 ## Raspberry Pi connection With the Controller
 ## Soldered Controller 
+![img-0123](https://user-images.githubusercontent.com/43186158/47398147-d21eb600-d700-11e8-813b-93167bb0b021.JPG)
 
 
 ## October 16, 2018 - Week 7
