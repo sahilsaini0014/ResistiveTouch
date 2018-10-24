@@ -2,6 +2,9 @@
 
 ## October 23, 2018 - Week 8
 ## Connection Created
+As you can see my Controller I2C Address on RPI terminal. 
+I also successfully able to use my RPI on my laptop by using VNC viewer.
+![img-0126](https://user-images.githubusercontent.com/43186158/47398153-d64ad380-d700-11e8-8c98-a2ee172ccc4e.JPG)
 
 ## Raspberry Pi connection With the Controller
 ![img-0125](https://user-images.githubusercontent.com/43186158/47398149-d3e87980-d700-11e8-90d3-3f8838fec31f.JPG)
