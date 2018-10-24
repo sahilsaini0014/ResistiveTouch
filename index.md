@@ -1,6 +1,12 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
 ## October 23, 2018 - Week 8
+
+## Fritzing Diagram
+![connection](https://user-images.githubusercontent.com/43186158/47399420-5aec2080-d706-11e8-8e8e-8f9135a20a1d.PNG)
+
+## Schematic Diagram
+
 ## Connection Created
 As you can see my Controller I2C Address on RPI terminal. 
 I also successfully able to use my RPI on my laptop by using VNC viewer.
