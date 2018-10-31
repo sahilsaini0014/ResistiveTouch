@@ -2,10 +2,11 @@
 
 ## October 30, 2018 - Week 9
 
+
 ## October 23, 2018 - Week 8
 
 ## Fritzing Diagram
-
+![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)
 
 ## Schematic Diagram
 
