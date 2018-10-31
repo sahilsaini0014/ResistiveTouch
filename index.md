@@ -2,6 +2,8 @@
 
 ## October 30, 2018 - Week 9
 
+## PCB Design
+![stmpe610_pcb](https://user-images.githubusercontent.com/43186158/47757858-be35ff80-dc7e-11e8-971b-710924b082fc.png)
 
 ## October 23, 2018 - Week 8
 
@@ -9,6 +11,7 @@
 ![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)
 
 ## Schematic Diagram
+![stmpe610_schem](https://user-images.githubusercontent.com/43186158/47757860-bf672c80-dc7e-11e8-8a80-aa23efbef1d0.png)
 
 
 ## Connection Created
