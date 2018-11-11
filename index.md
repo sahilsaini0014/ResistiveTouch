@@ -1,6 +1,12 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
-## October 30, 2018 - Week 10
+## November 6, 2018 - Week 10
 ## PCB Soldering
+### Soldering the Resistive Touch Screen Controller with the PCB
+![img-0578](https://user-images.githubusercontent.com/43186158/48318126-ca4c8600-e5c9-11e8-92fc-5fbfacfaeaf4.JPG)
+
+### Soldered PCB Connecetd with the RPI
+![img-0576](https://user-images.githubusercontent.com/43186158/48318128-cb7db300-e5c9-11e8-9e1c-7223c88c4b8e.JPG)
+
 
 
 
