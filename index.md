@@ -1,4 +1,6 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
+## November 13, 2018 - Week 11
+
 ## November 6, 2018 - Week 10
 ## PCB Soldering
 ### Soldered PCB Connecetd with the RPI
