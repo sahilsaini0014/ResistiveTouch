@@ -20,7 +20,7 @@
 
 ## PCB Design
 ![stmpe610_pcb](https://user-images.githubusercontent.com/43186158/47757858-be35ff80-dc7e-11e8-971b-710924b082fc.png)
-#### So this is week 9 and i have done half of my project. I have designed my PCB board and sent the gerber files to the Humber prototype lab to get the PCB Board ready in few weeks.
+#### So this is week 9 and I have done half of my project.This week we have to design a PCB to connect our sensor with the Raspberry PI so we can carry our hardware easily. With the PCB we can get rid of all the wires and the breadboard. So I have designed my PCB board on Fritzing app and sent the gerber files to the Humber prototype lab to get the PCB Board ready in few weeks.
 
 ## October 23, 2018 - Week 8
 
