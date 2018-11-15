@@ -9,7 +9,7 @@
 ## November 6, 2018 - Week 10
 ## PCB Soldering
 ### Soldered PCB Connecetd with the RPI
-#### As You can see the Sensor Soldered with the PCB and that PCB Connected to my Raspberry Pi With the header  
+#### As You can see my <a href= https://www.adafruit.com/product/1571>sensor</a> for Soldered with the PCB and that PCB Connected to my Raspberry Pi With the header. I was lucky in this case that I got my PCB working in the very first case. I was able to see my controller address on the Raspberry Pi terminal by running the command "sudo i2c detect -y 1"   My overall hardware is too compact. So this is a benefit for me. I can easily put everything in a small case.
 ![img-0578](https://user-images.githubusercontent.com/43186158/48318126-ca4c8600-e5c9-11e8-92fc-5fbfacfaeaf4.JPG)
 
 ### Soldering the Resistive Touch Screen Controller with the PCB
