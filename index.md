@@ -3,6 +3,8 @@
 #### So this is the week 11 of this course. PCB power up was due this week. As you that I have tried very hard to make it work but unfortunately, I was not able to achieve my goal on the same day. As I had tried to run each and every code that I had found on github related to my controller (<a href=https://www.adafruit.com/product/1571> ResistiveTouch Screen Controller</a>). Libraries and test code for my controller is also given by <a href= https://github.com/adafruit/Adafruit_STMPE610 >adafruit</a> But these libraries is for arduino and i am not using the arduino for my project. So I had found the CircuitPython code from the github licensed by MIT. But to run this code I had to install <a href =https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/overview>CircuitPython</a> on Raspberry Pi. Then I had installed CircuitPython on my Rasberry Pi. But I got some chip version error in that code. I had also told uh the problem that i was going through. Then you suggested me to try some other code of CircuitPython to run on my RaspberryPi. Then I had tried to blink the LED by the <a href =https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/digital-i-o>Code</a> available on the adafruit website. Finally i got successful in blinking the LED with that code. I also showed to you the blinking of LED. This means that CircuitPython is properly working on my RaspberryPi. Now I will try to solve the error that i am getting in my code.
 
 ### Blinking the LED.
+![img-0794](https://user-images.githubusercontent.com/43186158/48524820-dc3f5a80-e84f-11e8-89dc-98a47631b0bb.JPG)
+
 
 ## November 6, 2018 - Week 10
 ## PCB Soldering
