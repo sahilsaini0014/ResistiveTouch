@@ -1,5 +1,6 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 ## November 13, 2018 - Week 11
+#### So this is the week 11 of this course. PCB power up was due this week. As you that I have tried very hard to make it work but unfortunately, I was not able to achieve my goal on the same day. As I had tried to run each and every code that I had found on github related to my controller (<a href=https://www.adafruit.com/product/1571Resistive>Touch Screen Controller</a>). Libraries and test code for my controller is also given by <a href= https://github.com/adafruit/Adafruit_STMPE610 >adafruit</a>
 
 ## November 6, 2018 - Week 10
 ## PCB Soldering
