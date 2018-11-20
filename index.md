@@ -1,12 +1,14 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
 ## November 19, 2018 - Week 12
-
-![img-0850](https://user-images.githubusercontent.com/43186158/48745478-9d3b4b80-ec39-11e8-87ab-dd9dc793b89a.JPG)
-![img-0848](https://user-images.githubusercontent.com/43186158/48745503-a0ced280-ec39-11e8-99e7-6376be6ee376.JPG)
-![img-0846](https://user-images.githubusercontent.com/43186158/48745504-a1ffff80-ec39-11e8-81cd-862cbefc7948.JPG)
-![stmpe610_2](https://user-images.githubusercontent.com/43186158/48745507-a4faf000-ec39-11e8-8ae9-4fb81dcb079c.PNG)
+#### Last week PCB power up was due but, I was unsuccessful to do that. I was getting an error. So This week I tried again to get it work. Then I read the code again and got the mistake that I did. As in last class you told me that my code can run with both I2C or SPI. My conntroller is connected to the Raspberry Pi through I2C only but, I was trying to run it with SPI simpletest code that I took from Github. So I just changed That from SPI to I2C and finally I got the Results. Now my Controller is working properly. I know that I got my results late but I have learnt alot by this mistake. As you can see my results below:
+#### When I run my file output result ask the user to touch
 ![stmpe610_1](https://user-images.githubusercontent.com/43186158/48745511-a6c4b380-ec39-11e8-92eb-827c1b68638c.PNG)
+#### When the user touch the Resistive Touch Screen connected to the controller then he can get the postion and pressure readings. Position is displayed X and Y cordinates. As You can see the picture attached below that first reading is X cordinate on the Touch Screen and Second one is Y cordinate and Third One is Pressure applied while touching the Screen. 
+![stmpe610_2](https://user-images.githubusercontent.com/43186158/48745507-a4faf000-ec39-11e8-8ae9-4fb81dcb079c.PNG)
+
+
+
 
 
 ## November 13, 2018 - Week 11
