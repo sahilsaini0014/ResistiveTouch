@@ -3,7 +3,7 @@
 
 ## November 20, 2018 - Week 12
 ### Enclosure of the Hardware
-#### So this is the Week 12 and this week enclosure of the whole hardware in safe case is due. So last week I have sent my <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.cdr>Case Design files"</a> to Humber Prototype Lab to get my Case ready. I have got my case from Prototype Lab on 19 november. You can see un-assembled case below:    
+#### So this is the Week 12 and this week enclosure of the whole hardware in safe case is due. So last week I have sent my <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.cdr">Case Design files</a> to Humber Prototype Lab to get my Case ready. I have got my case from Prototype Lab on 19 november. You can see un-assembled case below:    
 ![img-0846](https://user-images.githubusercontent.com/43186158/48805682-fa8cd680-ece5-11e8-88d9-5812953637b3.JPG)
 
 #### After getting the case parts I had assembled my case by myself. Below is the Picture attached of my hardware safely enclosed in the case.  
