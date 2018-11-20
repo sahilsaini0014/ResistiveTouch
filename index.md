@@ -1,15 +1,12 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
 ## November 19, 2018 - Week 12
+### PCB
 #### Last week PCB power up was due but, I was unsuccessful to do that. I was getting an error. So This week I tried again to get it work. Then I read the code again and got the mistake that I did. As in last class you told me that my code can run with both I2C or SPI. My conntroller is connected to the Raspberry Pi through I2C only but, I was trying to run it with SPI simpletest code that I took from Github. So I just changed That from SPI to I2C and finally I got the Results. Now my Controller is working properly. I know that I got my results late but I have learnt alot by this mistake. As you can see my results below:
-#### When I run my file output result ask the user to touch
+#### When I run my file output result asks the user to touch:
 ![stmpe610_1](https://user-images.githubusercontent.com/43186158/48745511-a6c4b380-ec39-11e8-92eb-827c1b68638c.PNG)
 #### When the user touch the Resistive Touch Screen connected to the controller then he can get the postion and pressure readings. Position is displayed X and Y cordinates. As You can see the picture attached below that first reading is X cordinate on the Touch Screen and Second one is Y cordinate and Third One is Pressure applied while touching the Screen. 
 ![stmpe610_2](https://user-images.githubusercontent.com/43186158/48745507-a4faf000-ec39-11e8-8ae9-4fb81dcb079c.PNG)
-
-
-
-
 
 ## November 13, 2018 - Week 11
 #### So this is the week 11 of this course. PCB power up was due this week. As you that I have tried very hard to make it work but unfortunately, I was not able to achieve my goal on the same day. As I had tried to run each and every code that I had found on github related to my controller (<a href=https://www.adafruit.com/product/1571> ResistiveTouch Screen Controller</a>). Libraries and test code for my controller is also given by <a href= https://github.com/adafruit/Adafruit_STMPE610 >adafruit</a> But these libraries is for arduino and I am not using the arduino for my project. So I had found the CircuitPython code from the github licensed by MIT. But to run this code I had to install <a href =https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/overview>CircuitPython</a> on Raspberry Pi. Then I had installed CircuitPython on my Rasberry Pi. But I got some chip version error in that code. I had also told uh the problem that I was going through. Then you suggested me to try some other code of CircuitPython to run on my RaspberryPi. Then I had tried to blink the LED by the <a href =https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/digital-i-o>Code</a> available on the adafruit website. Finally I got successful in blinking the LED with that code. I also showed to you the blinking of LED. This means that CircuitPython is properly working on my RaspberryPi. Now I will try to solve the error that I am getting in my code.
