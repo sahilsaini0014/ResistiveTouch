@@ -1,5 +1,11 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
+
+## November 19, 2018 - Week 12
+### Enclosure of the Hardware
+####
+
+
 ## November 19, 2018 - Week 12
 ### Controller is Working
 #### Last week PCB power up was due but, I was unsuccessful to do that. I was getting an error. So This week I tried again to get it work. Then I read the code again and got the mistake that I did. As in last class Prof. told me that my code can run with both I2C or SPI. My controller is connected to the Raspberry Pi through I2C only but, I was trying to run it with SPI simpletest code that I took from Github. So I just changed That from SPI to I2C and finally I got the Results. Now my Controller is working properly. I know that I got my results late but I have learnt alot by this mistake. As you can see my results below:
