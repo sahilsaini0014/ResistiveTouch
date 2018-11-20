@@ -4,6 +4,9 @@
 ## November 19, 2018 - Week 12
 ### Enclosure of the Hardware
 ####
+![img-0846](https://user-images.githubusercontent.com/43186158/48805682-fa8cd680-ece5-11e8-88d9-5812953637b3.JPG)
+![img-0848](https://user-images.githubusercontent.com/43186158/48805687-fc569a00-ece5-11e8-8be2-a5e85fb2de48.JPG)
+![img-0850](https://user-images.githubusercontent.com/43186158/48805690-fd87c700-ece5-11e8-813d-5b2c5a3015ce.JPG)
 
 
 ## November 19, 2018 - Week 12
