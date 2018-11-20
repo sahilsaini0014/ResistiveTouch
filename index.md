@@ -2,6 +2,12 @@
 
 ## November 19, 2018 - Week 12
 
+![img-0850](https://user-images.githubusercontent.com/43186158/48745478-9d3b4b80-ec39-11e8-87ab-dd9dc793b89a.JPG)
+![img-0848](https://user-images.githubusercontent.com/43186158/48745503-a0ced280-ec39-11e8-99e7-6376be6ee376.JPG)
+![img-0846](https://user-images.githubusercontent.com/43186158/48745504-a1ffff80-ec39-11e8-81cd-862cbefc7948.JPG)
+![stmpe610_2](https://user-images.githubusercontent.com/43186158/48745507-a4faf000-ec39-11e8-8ae9-4fb81dcb079c.PNG)
+![stmpe610_1](https://user-images.githubusercontent.com/43186158/48745511-a6c4b380-ec39-11e8-92eb-827c1b68638c.PNG)
+
 
 ## November 13, 2018 - Week 11
 #### So this is the week 11 of this course. PCB power up was due this week. As you that I have tried very hard to make it work but unfortunately, I was not able to achieve my goal on the same day. As I had tried to run each and every code that I had found on github related to my controller (<a href=https://www.adafruit.com/product/1571> ResistiveTouch Screen Controller</a>). Libraries and test code for my controller is also given by <a href= https://github.com/adafruit/Adafruit_STMPE610 >adafruit</a> But these libraries is for arduino and I am not using the arduino for my project. So I had found the CircuitPython code from the github licensed by MIT. But to run this code I had to install <a href =https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/overview>CircuitPython</a> on Raspberry Pi. Then I had installed CircuitPython on my Rasberry Pi. But I got some chip version error in that code. I had also told uh the problem that I was going through. Then you suggested me to try some other code of CircuitPython to run on my RaspberryPi. Then I had tried to blink the LED by the <a href =https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/digital-i-o>Code</a> available on the adafruit website. Finally I got successful in blinking the LED with that code. I also showed to you the blinking of LED. This means that CircuitPython is properly working on my RaspberryPi. Now I will try to solve the error that I am getting in my code.
