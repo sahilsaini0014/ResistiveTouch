@@ -1,7 +1,7 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
 ## Table of Contents:
-1.  [Week 1](#September 04, 2018 - Week 1)
+1.[Week 1](#September 04, 2018 - Week 1)
 2.  [Week 2](#September 11, 2018 - Week 2)
 3.  [Week 3](#September 18, 2018 - Week 3)
 4.  [Week 4](#September 25, 2018 - Week 4)
