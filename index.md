@@ -1,5 +1,18 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
+## Table of Contents:
+.[Week 1]. (#Blinking the LED)
+.[Week 2].
+.[Week 3].
+.[Week 4].
+.[Week 5].
+.[Week 6].
+.[Week 7].
+.[Week 8].
+.[Week 9].
+.[Week 10].
+.[Week 11].
+.[Week 12].
 
 ## November 20, 2018 - Week 12
 ### Enclosure of the Hardware
