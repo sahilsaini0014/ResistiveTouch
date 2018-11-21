@@ -7,7 +7,7 @@
 ![img-0846](https://user-images.githubusercontent.com/43186158/48805682-fa8cd680-ece5-11e8-88d9-5812953637b3.JPG)
 
 #### Snap shot of case design file:
-![stmpe_casedesign](https://user-images.githubusercontent.com/43186158/48816832-c3ccb580-ed11-11e8-932e-30a136ff6fce.JPG)
+<a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.cdr">![stmpe_casedesign](https://user-images.githubusercontent.com/43186158/48816832-c3ccb580-ed11-11e8-932e-30a136ff6fce.JPG)</a>
 ###### click on image to see original file:
 
 
