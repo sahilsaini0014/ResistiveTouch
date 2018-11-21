@@ -8,7 +8,7 @@
 
 #### Snap shot of case design file:
 ![stmpe_casedesign](https://user-images.githubusercontent.com/43186158/48816832-c3ccb580-ed11-11e8-932e-30a136ff6fce.JPG)
-#####click on image to see original file:
+##### click on image to see original file:
 
 
 #### After getting the case parts I had assembled my case by myself. Below is the Picture attached of my hardware safely enclosed in the case.  
