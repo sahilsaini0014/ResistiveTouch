@@ -1,18 +1,19 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
 ## Table of Contents:
-1. [Week 1](#September 04, 2018 - Week 1)
-2.  [Week 2](#September 11, 2018 - Week 2)
-3.  [Week 3](#September 18, 2018 - Week 3)
-4.  [Week 4](#September 25, 2018 - Week 4)
-5.  [Week 5](# October 02, 2018 - Week 5)
-6.  [Week 7](# October 16, 2018 - Week 7)
-7.  [Week 8](# October 23, 2018 - Week 8)
-8.  [Week 9](# October 30, 2018 - Week 9)
-9.  [Week 10](# November 06, 2018 - Week 10)
-10.  [Week 11](# November 13, 2018 - Week 11)
-11.  [Week 12](#Enclosure of the Hardware)
+[Week 1](#September 04, 2018 - Week 1)
+[Week 2](#September 11, 2018 - Week 2)
+[Week 3](#September 18, 2018 - Week 3)
+[Week 4](#September 25, 2018 - Week 4)
+[Week 5](#October 02, 2018 - Week 5)
+[Week 7](#October 16, 2018 - Week 7)
+[Week 8](#October 23, 2018 - Week 8)
+[Week 9](#October 30, 2018 - Week 9)
+[Week 10](#November 06, 2018 - Week 10)
+[Week 11](#November 13, 2018 - Week 11)
+[Week 12](#November 20, 2018 - Week 12)
 
+[November 20, 2018 - Week 12]
 ## November 20, 2018 - Week 12
 ## Enclosure of the Hardware
 #### So this is the Week 12 and this week enclosure of the whole hardware in safe case is due. So last week I have sent my <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.cdr">Case Design files</a> to Humber Prototype Lab to get my Case ready. I have got my case from Prototype Lab on 19 november. You can see un-assembled case below:    
