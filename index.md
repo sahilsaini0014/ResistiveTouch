@@ -6,6 +6,10 @@
 #### So this is the Week 12 and this week enclosure of the whole hardware in safe case is due. So last week I have sent my <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.cdr">Case Design files</a> to Humber Prototype Lab to get my Case ready. I have got my case from Prototype Lab on 19 november. You can see un-assembled case below:    
 ![img-0846](https://user-images.githubusercontent.com/43186158/48805682-fa8cd680-ece5-11e8-88d9-5812953637b3.JPG)
 
+#### Snap shot of case design file:
+![stmpe_casedesign](https://user-images.githubusercontent.com/43186158/48816832-c3ccb580-ed11-11e8-932e-30a136ff6fce.JPG)
+
+
 #### After getting the case parts I had assembled my case by myself. Below is the Picture attached of my hardware safely enclosed in the case.  
 ![img-0848](https://user-images.githubusercontent.com/43186158/48805687-fc569a00-ece5-11e8-8be2-a5e85fb2de48.JPG)
 
