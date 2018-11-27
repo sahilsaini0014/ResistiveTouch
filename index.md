@@ -1,9 +1,7 @@
 # CENG 317 - RESISTIVE TOUCH CONTROLLER.
 
 ## November 27, 2018 - Week 13
-### <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610_Presentation.pptx">Presentation</a> STMPE610
-
-
+### <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610_Presentation.pptx">Presentation</a> for the STMPE610 controller.
 
 ## November 20, 2018 - Week 12
 ## Enclosure of the Hardware
