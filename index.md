@@ -35,7 +35,7 @@
 ## November 6, 2018 - Week 10
 ## PCB Soldering
 ### Soldered PCB Connecetd with the RPI
-#### As You can see my <a href= https://www.adafruit.com/product/1571>sensor</a> Soldered with the PCB and that PCB Connected to my Raspberry Pi With the header. I was lucky in this case that I got my PCB working in the very first case. I was able to see my controller address on the Raspberry Pi terminal by running the command "sudo i2c detect -y 1"   My overall hardware is too compact. So this is a benefit for me. I can easily put everything in a small case.
+#### As You can see my <a href= "https://www.adafruit.com/product/1571">sensor</a> Soldered with the PCB and that PCB Connected to my Raspberry Pi With the header. I was lucky in this case that I got my PCB working in the very first case. I was able to see my controller address on the Raspberry Pi terminal by running the command "sudo i2c detect -y 1"   My overall hardware is too compact. So this is a benefit for me. I can easily put everything in a small case.
 ![img-0578](https://user-images.githubusercontent.com/43186158/48318126-ca4c8600-e5c9-11e8-92fc-5fbfacfaeaf4.JPG)
 
 ### Soldering the Resistive Touch Screen Controller with the PCB
@@ -52,7 +52,7 @@
 ## October 23, 2018 - Week 8
 
 ## Fritzing Diagram
-<a href= ![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)
+<a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.fzz"> ![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)</a>
 
 ## Schematic Diagram
 ![stmpe610_schem](https://user-images.githubusercontent.com/43186158/47757860-bf672c80-dc7e-11e8-8a80-aa23efbef1d0.png)
