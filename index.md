@@ -52,7 +52,7 @@
 ## October 23, 2018 - Week 8
 
 ## Fritzing Diagram
-![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)
+<a href= ![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)
 
 ## Schematic Diagram
 ![stmpe610_schem](https://user-images.githubusercontent.com/43186158/47757860-bf672c80-dc7e-11e8-8a80-aa23efbef1d0.png)
