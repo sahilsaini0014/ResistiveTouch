@@ -32,7 +32,11 @@
 * So After getting each part needed for this project. we can start our project now with installing the Operating Sysytem Noobs on our Raspberry Pi. I have followed the instructions given by the official Raspberry Pi website. Click <a href="https://www.raspberrypi.org/documentation/installation/noobs.md">here</a> to read instructions. To install the OS you also need a monitor, HDMI cable, Keyboard and a mouse. 
 If you dont have noobs downloaded, you can download it <a href="https://www.raspberrypi.org/downloads/noobs/">here</a>
 * After installing the noobs I have enable the VNC server to connect the Raspberry Pi with my computer remotely which means no wires needed to use the Raspberry Pi. The only thing you need is Power adapter. To Enable and install VNC on your PC you can follow these <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/">instructions</a>  
-* So after installing the above things I have connected my controller with my raspberry Pi with jumper wires and tried to see my Controller address on Raspberry Pi 
+* So after installing the above things I have connected my controller with my raspberry Pi with jumper wires and tried to see my Controller address(0x41) on Raspberry Pi.
+![assembly](https://user-images.githubusercontent.com/43186158/49835163-5f2ed480-fd6c-11e8-82ea-90887ec3f500.JPG)
+* I have used the Command: i2cdetect -y 1 
+![address](https://user-images.githubusercontent.com/43186158/49835162-5f2ed480-fd6c-11e8-8cdf-eecd440c8d32.JPG)
+
 * Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
 ![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
 
