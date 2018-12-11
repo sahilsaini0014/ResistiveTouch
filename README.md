@@ -29,6 +29,9 @@
 
 ### Mechanical Assembly
 * Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
+![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
+
+* And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. 
 
 
 ### PCB Soldering
