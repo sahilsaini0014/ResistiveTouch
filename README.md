@@ -40,11 +40,11 @@ If you dont have noobs downloaded, you can download it <a href="https://www.rasp
 * Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
 ![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
 
-
-
-
-
 ### PCB Soldering
+* So to get rid of the above wires that I have showed in the above circuit we can design a PCB. I have used the fritzing app to design my PCB. I have sent my PCB gerber files to Humber prototype lab to get it ready for free of cost.
+you can download the files <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610_Gerber.zip">here</a>
+
+* After getting the PCB we have to solder our Controller with the PCB. You should be very careful when soldering the PCB. I have directly soldered the controller on the PCB but you can also use header to raise the height of the controller. 
 
 
 
