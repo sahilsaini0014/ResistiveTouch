@@ -16,7 +16,7 @@
 
 ### Bill of Materials/Budget
 ![budget](https://user-images.githubusercontent.com/43186158/49831451-ecb8f700-fd61-11e8-9a25-f1d0d24ab567.PNG)
-#### So this is the budget that I have made in my fourth week of the Project. As I had'nt buy any thing after that So my budget remained  same till end of the project. 
+#### So this is the budget that I have made in my fourth week of the Project. As I had'nt buy any thing after that So my budget remained  same till end of the project. If you wanna check the receipts, you can click <a href="https://sahilsaini0014.github.io/ResistiveTouch/#october-2-2018---week-5">here</a>
 
 
 
