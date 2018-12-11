@@ -28,11 +28,12 @@
 
 
 ### Mechanical Assembly
+#### Installing OS on Raspberry 
+* So After getting each part needed for this project. we can start our project now with installing the Operating Sysytem Noobs on our Raspberry Pi. I have followed the instructions given by the official Raspberry Pi website. Click <a href="https://www.raspberrypi.org/documentation/installation/noobs.md">here</a> to read instructions.
 * Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
 ![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
 
-* And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. Case contains the controller that is soldered with the PCB and that PCB is connected to Raspberry PI.
-![finalhardware](https://user-images.githubusercontent.com/43186158/49832625-3a832e80-fd65-11e8-8ddb-e8d743589d05.JPG)
+
 
 
 
@@ -44,6 +45,8 @@
 
 
 ### Unit Testing
+* And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. Case contains the controller that is soldered with the PCB and that PCB is connected to Raspberry PI.
+![finalhardware](https://user-images.githubusercontent.com/43186158/49832625-3a832e80-fd65-11e8-8ddb-e8d743589d05.JPG)
 
 
 ### Production Testing:
