@@ -32,6 +32,8 @@
 ![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
 
 * And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. 
+![finalhardware](https://user-images.githubusercontent.com/43186158/49832625-3a832e80-fd65-11e8-8ddb-e8d743589d05.JPG)
+
 
 
 ### PCB Soldering
