@@ -84,7 +84,7 @@ you can download the files <a href="https://github.com/sahilsaini0014/ResistiveT
 ![led](https://user-images.githubusercontent.com/43186158/49841691-8abeb880-fd86-11e8-9b68-1c1960b14e88.JPG)
 * If you are able to blink the LED then you are ready to run the actual code. First try the command: Sudo i2cdetect -i 1 to double check your controller address. Because if your PCB have some connection problem than you will not be able to see your controller address on raspberry Pi.
 * So copy all the files from my repository to your Raspberry pi. Click here to see the files. I have got this code from github and it was licensed by MIT. But the test file that I have got from github was for SPI connections. But we are using the I2C connection for our project. So I have code the test file for I2C connection by myself.
-##### The only thing you have to do is simply run the Simpletest.py file with the command: python3 simpletest.py and then You will get Screen like this:
+##### The only thing you have to do is simply run the Stmpe610_simpletest.py file with the command: python3 stmpe610_simpletest.py and then You will get Screen like this:
 
 ![run](https://user-images.githubusercontent.com/43186158/49842341-1e918400-fd89-11e8-9f89-edc7361ce896.PNG)
 
