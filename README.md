@@ -110,6 +110,9 @@ you can download the files <a href="https://github.com/sahilsaini0014/ResistiveT
 * And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. Case contains the controller that is soldered with the PCB and that PCB is connected to Raspberry PI.
 ![finalhardware](https://user-images.githubusercontent.com/43186158/49832625-3a832e80-fd65-11e8-8ddb-e8d743589d05.JPG)
 
+* So after enclosing the hardware in the case you should check you device by running your program again. Because sometime while enclosing we can break our hardware.   
+
+
 ### Production Testing:
 * If we want this product to produce on large scale and then the testing this hardware can be fully automated by machines. Because As you know this is an Resistive Touch Screen Controller that basically works when the pressure is applied on the screen. So no human hand is needed. So Testing can be done by the Machines. Soldering part can be easily done by the machines on very fast pace.
 
