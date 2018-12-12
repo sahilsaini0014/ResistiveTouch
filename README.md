@@ -57,6 +57,7 @@ If you dont have noobs downloaded, you can download it <a href="https://www.rasp
 
 #### Fritzing Diagram Design
 <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.fzz"> ![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)</a>
+click on the image to download the fritzing file
 
 #### Real Connections
 ![assembly](https://user-images.githubusercontent.com/43186158/49835163-5f2ed480-fd6c-11e8-82ea-90887ec3f500.JPG)
