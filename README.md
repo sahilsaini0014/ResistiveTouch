@@ -12,9 +12,8 @@
 8. [Production Testing](#production-testing)
 9. [Is it Reproducible?](#reproducible)
 ### Introduction
-So Resistive Touch Screen Controler is used to control a  Resistive Touch Screen of any size. This breakout board features the STMPE610, which has both I2C and SPI interfaces available. There is also an interrupt pin that you can use to indicate when a touch has been detected to your microcontroller or microcomputer. We wrapped up the chip with a 3V voltage regulator and level shifting so it's safe to use with 3V or 5V logic. Its a nicely designed chip, and has very stable precise readings.
-
-
+* So Resistive Touch Screen Controler is used to control a  Resistive Touch Screen of any size. This breakout board features the STMPE610, which has both I2C and SPI interfaces available. There is also an interrupt pin that you can use to indicate when a touch has been detected to your microcontroller or microcomputer. Thia chipis wrapped up with a 3V voltage regulator and level shifting so it's safe to use with 3V or 5V logic. Its a nicely designed chip, and has very stable precise readings.
+* For the screens that have 1mm pitch FPC cables, you can plug the cable right into the connector. The majority of medium/large touchscreens have that kind of connector. So connecting this controller with Raspberry Pi is not diificult. You can see the full instruction in Mechnical assmebly below. 
 ![intro](https://user-images.githubusercontent.com/43186158/49844583-919ef880-fd91-11e8-9941-a645798a0393.PNG)
 
 
@@ -45,6 +44,17 @@ So Resistive Touch Screen Controler is used to control a  Resistive Touch Screen
 If you dont have noobs downloaded, you can download it <a href="https://www.raspberrypi.org/downloads/noobs/">here</a>
 * After installing the noobs I have enable the VNC server to connect the Raspberry Pi with my computer remotely which means no wires needed to use the Raspberry Pi. The only thing you need is Power adapter. To Enable and install VNC on your PC you can follow these <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/">instructions</a>  
 * So after installing the above things I have connected my controller with my raspberry Pi with jumper wires and tried to see my Controller address(0x41) on Raspberry Pi.
+#### How to connect STMPE610 with Raspberry PI?
+* So you should use the four male to female jumper wires of different colors to make four connection:
+* You need a breadboard, So you can place your controller on the breadboard.
+* First you should connect the SDA pin of the Controller to SDA pin of the Raspberry Pi.
+* Then you should connect the SCL pin of the Controller to SCL of the Raspberry Pi.
+* Then you should connect the Vin pin of the Controller to 3v Vin of the Raspberry Pi.
+* Then you should connect the Gnd pin of the Controller to Gnd of the Raspberry Pi.
+* Double check all the connection and do not short circuit anything.
+
+##### So we just need these four connection to connect out controller with Raspberry Pi through I2C Interface.
+
 ![assembly](https://user-images.githubusercontent.com/43186158/49835163-5f2ed480-fd6c-11e8-82ea-90887ec3f500.JPG)
 * I have used the Command: sudo i2cdetect -y 1 
 ![address](https://user-images.githubusercontent.com/43186158/49835162-5f2ed480-fd6c-11e8-8cdf-eecd440c8d32.JPG)
