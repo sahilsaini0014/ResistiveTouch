@@ -16,11 +16,11 @@
 * For the screens that have 1mm pitch FPC cables, you can plug the cable right into the connector. The majority of medium/large touchscreens have that kind of connector. 
 ![intro](https://user-images.githubusercontent.com/43186158/49844583-919ef880-fd91-11e8-9941-a645798a0393.PNG)
 
-*  So connecting this controller with Raspberry Pi is not diificult. You can see the full instruction in Mechnical assmebly below.But you can the Schematic diagram that I have made in Fritzing app to connect the controller with the Raspberry here.
+*  So connecting this controller with Raspberry Pi is not diificult. You can see the full instruction in Mechnical assmebly below. But you can see the Schematic diagram that I have made in Fritzing app to connect the controller with the Raspberry here.
 
 #### Schematic Diagram
 ![stmpe610_schem](https://user-images.githubusercontent.com/43186158/47757860-bf672c80-dc7e-11e8-8a80-aa23efbef1d0.png)
-* So you guys can see the Schematic diagram of the conntroller connected with Raspberry Pi. SDA is connected to SDA, SCL is connected to SCL, Vin is connected to Vin And GND is conneceted to GND. So this is the design for the Connection.
+* So this is the Schematic diagram of the conntroller connected with Raspberry Pi. SDA is connected to SDA, SCL is connected to SCL, Vin is connected to Vin And GND is conneceted to GND. So this is the design for the Connection.
 
 
 
