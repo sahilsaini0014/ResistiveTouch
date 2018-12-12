@@ -12,6 +12,11 @@
 8. [Production Testing](#production-testing)
 9. [Is it Reproducible?](#reproducible)
 ### Introduction
+So Resistive Touch Screen Controler is used to control a  Resistive Touch Screen of any size. This breakout board features the STMPE610, which has both I2C and SPI interfaces available. There is also an interrupt pin that you can use to indicate when a touch has been detected to your microcontroller or microcomputer. We wrapped up the chip with a 3V voltage regulator and level shifting so it's safe to use with 3V or 5V logic. Its a nicely designed chip, and has very stable precise readings.
+
+
+![intro](https://user-images.githubusercontent.com/43186158/49844583-919ef880-fd91-11e8-9941-a645798a0393.PNG)
+
 
 
 
