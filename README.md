@@ -17,11 +17,11 @@
 
 ### Bill of Materials/Budget
 #### Required parts to make this harware:
-<a href="https://www.canakit.com/raspberry-pi-3-model-b-plus-basic-kit.html">Raspberry Pi 3 Model B+ Basic Kit</a> 
-<a href="https://www.adafruit.com/product/1571">Resistive Touch Screen Controller - STMPE610</a>
-<a href="https://www.adafruit.com/product/333">Resistive Touch screen - 3.7" Diagonal</a>
-<a href="https://www.amazon.com/Breadboard-Wires-Jumper-Multicolored-Raspberry/dp/B01GK2Q4ZQ">Jumper Wires</a>
-<a href="
+##### <a href="https://www.canakit.com/raspberry-pi-3-model-b-plus-basic-kit.html">Raspberry Pi 3 Model B+ Basic Kit</a> 
+##### <a href="https://www.adafruit.com/product/1571">Resistive Touch Screen Controller - STMPE610</a>
+##### <a href="https://www.adafruit.com/product/333">Resistive Touch screen - 3.7" Diagonal</a>
+##### <a href="https://www.amazon.ca/Haobase-120pcs-Multicolored-Female-Breadboard/dp/B01DLKLL6C/ref=s">Jumper Wires</a>
+##### <a href="https://www.amazon.ca/Sandisk-Ultra-Micro-UHS-I-Adapter/dp/B073K14CVB/ref=sr_1_4?s=electronics&ie=UTF8&qid=1537837988&sr=1-4&keywords=micro%2Bsd%2Bcard%2B16gb&th=1">Sd card 16Gb</a>
 ![budget](https://user-images.githubusercontent.com/43186158/49831451-ecb8f700-fd61-11e8-9a25-f1d0d24ab567.PNG)
 * So this is the budget that I have made in my fourth week of the Project. As I had'nt buy any thing after that So my budget remained  same till end of the project. If you wanna check the receipts, you can click <a href="https://sahilsaini0014.github.io/ResistiveTouch/#october-2-2018---week-5">here</a>
 
