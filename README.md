@@ -34,11 +34,8 @@ If you dont have noobs downloaded, you can download it <a href="https://www.rasp
 * After installing the noobs I have enable the VNC server to connect the Raspberry Pi with my computer remotely which means no wires needed to use the Raspberry Pi. The only thing you need is Power adapter. To Enable and install VNC on your PC you can follow these <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/">instructions</a>  
 * So after installing the above things I have connected my controller with my raspberry Pi with jumper wires and tried to see my Controller address(0x41) on Raspberry Pi.
 ![assembly](https://user-images.githubusercontent.com/43186158/49835163-5f2ed480-fd6c-11e8-82ea-90887ec3f500.JPG)
-* I have used the Command: i2cdetect -y 1 
+* I have used the Command: sudo i2cdetect -y 1 
 ![address](https://user-images.githubusercontent.com/43186158/49835162-5f2ed480-fd6c-11e8-8cdf-eecd440c8d32.JPG)
-
-* Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
-![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
 
 ### PCB Soldering
 * So to get rid of the above wires that I have showed in the above circuit we can design a PCB. I have used the fritzing app to design my PCB. I have sent my PCB gerber files to Humber prototype lab to get it ready for free of cost.
@@ -53,9 +50,21 @@ you can download the files <a href="https://github.com/sahilsaini0014/ResistiveT
 
 
 ### Power Up
+* So by making the PCB we have made our hardware safe and compact. Now this the time to power up the hardware and get the touch readings by touching the Sreen. So the very first step you should take to power up the hardware is to install the CircuitPython on our Rasberry Pi. Because I had used the python code in my project to get the readings.
+* To install the CircuitPython on your Raspberry PI follow these Instructions <a href="https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi">here</a>
+* After installing the CircuitPython on your Raspberry Pi you should try to blink an LED with the code given in the instructon. I had checked the it by blinking an LED.
+![led](https://user-images.githubusercontent.com/43186158/49841691-8abeb880-fd86-11e8-9b68-1c1960b14e88.JPG)
+* If you are able to blink the LED then you are ready to run the actual code. First try the command: Sudo i2cdetect -i 1 to double check your controller address. Because if your PCB have some connection problem than you will not be able to see your controller address on raspberry Pi.
+* So copy all the files from my repository to your Raspberry pi. Click here to see the files. I have got this code from github and it was licensed by MIT. But the test file that I have got from github was for SPI connections. But we our using the I2C connectio for our project. So I have code the test file for I2C connection by myself.
+* The only thing you have to do is simply run the Simpletest.py file with the command: python3 simpletest.py and then You will get Screen like this:
+
+
 
 
 ### Unit Testing
+* Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
+![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
+
 * And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. Case contains the controller that is soldered with the PCB and that PCB is connected to Raspberry PI.
 ![finalhardware](https://user-images.githubusercontent.com/43186158/49832625-3a832e80-fd65-11e8-8ddb-e8d743589d05.JPG)
 
