@@ -14,14 +14,17 @@
 ### Introduction
 
 
+
 ### Bill of Materials/Budget
+#### Required parts to make this harware:
+<a href="https://www.canakit.com/raspberry-pi-3-model-b-plus-basic-kit.html"> ##### Raspberry Pi 3 Model B+ Basic Kit</a>  
 ![budget](https://user-images.githubusercontent.com/43186158/49831451-ecb8f700-fd61-11e8-9a25-f1d0d24ab567.PNG)
-#### So this is the budget that I have made in my fourth week of the Project. As I had'nt buy any thing after that So my budget remained  same till end of the project. If you wanna check the receipts, you can click <a href="https://sahilsaini0014.github.io/ResistiveTouch/#october-2-2018---week-5">here</a>
+* So this is the budget that I have made in my fourth week of the Project. As I had'nt buy any thing after that So my budget remained  same till end of the project. If you wanna check the receipts, you can click <a href="https://sahilsaini0014.github.io/ResistiveTouch/#october-2-2018---week-5">here</a>
 
 
 
 ### Time Commitment
-* Time to complete this project would be around 4 days if you have everything handy with the build instruction. It took me couple of weeks to complete this project.In the first week,I had to research about my project, plan my budget accordingly and wait for the items to be delivered. During that time I learned how to connect my Raspberry Pi remotely and researched about my controller more deeply.
+* Time to complete this project would be around 4 days if you have everything handy with the build instruction. It took me almost 11 Weeks to complete this project. In the first five weeks,I had to research about my project, plan my budget accordingly and wait for the items to be delivered. During that time I learned how to connect my Raspberry Pi remotely and researched about my controller more deeply.
 
 * Well, if you are free for couple of days and want to make something interesting, I would suggest you to try this and let me know if you have any questions. My email address is sahilsiani0014@gmail.com. Feel free to contact me.
 
@@ -74,16 +77,11 @@ you can download the files <a href="https://github.com/sahilsaini0014/ResistiveT
 * And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. Case contains the controller that is soldered with the PCB and that PCB is connected to Raspberry PI.
 ![finalhardware](https://user-images.githubusercontent.com/43186158/49832625-3a832e80-fd65-11e8-8ddb-e8d743589d05.JPG)
 
-
-* Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
-![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
-
-
 ### Production Testing:
-
-
+* If we want this product to produce on large scale and then the testing this hardware can be fully automated by machines. Because As you know this is an Resistive Touch Screen Controller that basically works when the pressure is applied on the screen. So no human hand is needed. So Testing can be done by the Machines. Soldering part can be easily done by the machines on very fast pace.
 
 ### Reproducible?
+* As from top to bottom of this page I have elaborated each and every step clearly and in very easy way. So to reproduce the same hardware should not be much difficult now. You just have to focus on the instructions I gave and and the instructions in the links that I have provided. You should not miss any step while installing anything.
 
 
 
