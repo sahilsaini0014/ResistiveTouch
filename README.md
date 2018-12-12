@@ -55,6 +55,10 @@ If you dont have noobs downloaded, you can download it <a href="https://www.rasp
 
 ##### So we just need these four connection to connect out controller with Raspberry Pi through I2C Interface.
 
+#### Fritzing Diagram Design
+<a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.fzz"> ![stmpe610_bb](https://user-images.githubusercontent.com/43186158/47757856-bd04d280-dc7e-11e8-86da-812758063072.jpg)</a>
+
+#### Real Connections
 ![assembly](https://user-images.githubusercontent.com/43186158/49835163-5f2ed480-fd6c-11e8-82ea-90887ec3f500.JPG)
 * I have used the Command: sudo i2cdetect -y 1 
 ![address](https://user-images.githubusercontent.com/43186158/49835162-5f2ed480-fd6c-11e8-8cdf-eecd440c8d32.JPG)
