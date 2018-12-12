@@ -1,4 +1,4 @@
-# RESISTIVE TOUCH SCREEN CONTROLLER.
+# <a href="https://www.adafruit.com/product/1571">RESISTIVE TOUCH SCREEN CONTROLLER.</a>
 
 
 ## Table of Contents
@@ -118,6 +118,10 @@ you can download the files <a href="https://github.com/sahilsaini0014/ResistiveT
 
 ### Reproducible?
 * As from top to bottom of this page I have elaborated each and every step clearly and in very easy way. So to reproduce the same hardware should not be much difficult now. You just have to focus on the instructions I gave and and the instructions in the links that I have provided. You should not miss any step while installing anything.
+
+### Further Information
+* Every Document is available under Document folder in my Repository. The Code is available under the Code folder in the Repository.
+* If you wanna see my weekly progress you can refer to this link <a href="https://sahilsaini0014.github.io/ResistiveTouch/">https://sahilsaini0014.github.io/ResistiveTouch</a>
 
 
 
