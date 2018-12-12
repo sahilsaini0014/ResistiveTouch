@@ -43,9 +43,13 @@ If you dont have noobs downloaded, you can download it <a href="https://www.rasp
 ### PCB Soldering
 * So to get rid of the above wires that I have showed in the above circuit we can design a PCB. I have used the fritzing app to design my PCB. I have sent my PCB gerber files to Humber prototype lab to get it ready for free of cost.
 you can download the files <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610_Gerber.zip">here</a>
+##### PCB design
 
 * After getting the PCB we have to solder our Controller with the PCB. You should be very careful when soldering the PCB. I have directly soldered the controller on the PCB but you can also use header to raise the height of the controller. Check the pictures below:
-
+##### While Soldering the PCB with controller
+![soldering](https://user-images.githubusercontent.com/43186158/49840905-6f05e300-fd83-11e8-9266-eb07374173dd.JPG)
+##### Mounted Controller on the Raspberry Pi through PCB
+![donesoldering](https://user-images.githubusercontent.com/43186158/49840906-6f05e300-fd83-11e8-92e0-0ff43badfa76.JPG)
 
 
 ### Power Up
