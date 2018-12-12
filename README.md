@@ -56,22 +56,27 @@ you can download the files <a href="https://github.com/sahilsaini0014/ResistiveT
 * After installing the CircuitPython on your Raspberry Pi you should try to blink an LED with the code given in the instructon. I had checked the it by blinking an LED.
 ![led](https://user-images.githubusercontent.com/43186158/49841691-8abeb880-fd86-11e8-9b68-1c1960b14e88.JPG)
 * If you are able to blink the LED then you are ready to run the actual code. First try the command: Sudo i2cdetect -i 1 to double check your controller address. Because if your PCB have some connection problem than you will not be able to see your controller address on raspberry Pi.
-* So copy all the files from my repository to your Raspberry pi. Click here to see the files. I have got this code from github and it was licensed by MIT. But the test file that I have got from github was for SPI connections. But we our using the I2C connectio for our project. So I have code the test file for I2C connection by myself.
+* So copy all the files from my repository to your Raspberry pi. Click here to see the files. I have got this code from github and it was licensed by MIT. But the test file that I have got from github was for SPI connections. But we are using the I2C connection for our project. So I have code the test file for I2C connection by myself.
 * The only thing you have to do is simply run the Simpletest.py file with the command: python3 simpletest.py and then You will get Screen like this:
 ![run](https://user-images.githubusercontent.com/43186158/49842341-1e918400-fd89-11e8-9f89-edc7361ce896.PNG)
 * When you will touch the Screen you will get the following readings:
 ![readings](https://user-images.githubusercontent.com/43186158/49842340-1df8ed80-fd89-11e8-9555-74c47515d40a.PNG)
 
 
-
-
-
 ### Unit Testing
-* Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
-![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
+* So until this point softwere part is almost done. Now we should make a case for our hardware to keep it more safe otherwise you can break your screen easily.
+* In my Case I have sent the case design <a href="https://github.com/sahilsaini0014/ResistiveTouch/blob/master/Documents/STMPE610.cdr">corel draw file</a> to Humber prototype lab and got the unassemblled Case next day.
+##### Case Design:
+![casedesign](https://user-images.githubusercontent.com/43186158/49842748-c065a080-fd8a-11e8-97ff-225f7b59eecc.JPG)
+##### Un-assembled Case:
+![unassembled](https://user-images.githubusercontent.com/43186158/49842749-c065a080-fd8a-11e8-949d-2d246f813ad8.JPG)
 
 * And below is my final hardware on which my Resistive Touch Screen is attached on top of the case. Case contains the controller that is soldered with the PCB and that PCB is connected to Raspberry PI.
 ![finalhardware](https://user-images.githubusercontent.com/43186158/49832625-3a832e80-fd65-11e8-8ddb-e8d743589d05.JPG)
+
+
+* Since this Project requires no more than two components, we just have to connect Resistive Touch Screen with the Raspberry Pi connected to the STMPE610 controller. Below are picture while I was making this hardware setup.
+![assembling](https://user-images.githubusercontent.com/43186158/49832468-c2b50400-fd64-11e8-9aba-e1f67b316d1f.PNG)
 
 
 ### Production Testing:
